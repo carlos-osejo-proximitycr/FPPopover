@@ -6,7 +6,7 @@
 #
 Pod::Spec.new do |s|
   s.name     = 'FPPopover'
-  s.version  = '1.1'
+  s.version  = '1.4'
   s.license  = 'BSD'
   s.summary  = 'This library provides an alternative to the native iOS UIPopoverController, adding support for iPhone and additional opportunities to customize the look and feel of the popovers.'
   s.homepage = 'http://www.50pixels.com/blog/labs/open-library-fppopover-ipad-like-popovers-for-iphone/'
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   # Specify the location from where the source should be retreived.
   #
-  s.source   = { :git => 'https://github.com/50pixels/FPPopover.git', :tag => '1.1' }
+  s.source   = { :git => 'https://github.com/carlos-osejo-proximitycr/FPPopover.git', :tag => '1.4' }
   # s.source   = { :svn => 'http://EXAMPLE/Peanut/tags/1.0.0' }
   # s.source   = { :hg  => 'http://EXAMPLE/Peanut', :revision => '1.0.0' }
 
